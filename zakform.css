@@ -1,0 +1,34 @@
+form{
+	width : 24em;
+	margin : auto;
+	position : relative;
+	
+}
+fieldset#info {
+	background : #A4D8EE;
+	border : outset #A4D8EE;
+}
+#info label{
+	position : absolute;
+	left :20px;
+	font-size :90%;
+	padding-top : 0.2em;
+}
+#info input{
+	margin-left: 9em;
+	line-height : 1.4em;
+	margin-bottom : 0.2em;
+	
+}
+legend, #btn{
+	background:#DED983;
+	color : #345071;
+	padding : 0.2em 0.3em;
+	font-size:1.2em;
+	border : 2px outset #DED983;
+	position:relative;
+	
+	width:10em;
+	margin-left:1em;
+	margin-top:1em;
+}
